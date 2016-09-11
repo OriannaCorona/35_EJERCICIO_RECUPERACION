@@ -1,0 +1,26 @@
+/*header*/
+.bg-green{
+
+}
+.bg-meseta{}
+.white{ 
+	color: white; 
+}
+.colors{
+	border: black solid 2px;
+	margin: 0% 0%;
+	width: 120%;
+	height: 150px;
+	margin-bottom: 5%;
+}
+.lateral{
+	width: 70%;
+	border: solid black 2px;
+	height: 150px;
+}
+.mrg-left-42{
+	margin-left: 42%;
+}
+.mrg-right-40{
+	margin-right: 40%;
+}
