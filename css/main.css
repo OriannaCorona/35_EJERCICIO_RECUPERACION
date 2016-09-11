@@ -1,21 +1,128 @@
 /*header*/
 .bg-green{
-
+	background-color: #04b45f;
 }
-.bg-meseta{}
+nav.navbar{
+	background-color: transparent;
+	border: transparent;
+	z-index: 100;
+}
+li a, div a{
+	color: white !important;
+}
+/*section intro*/
+.bg-meseta{
+	background-image: url("../img/carousel-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 102.7%;
+}
+.jumbotron{
+	background-color: transparent;
+}
 .white{ 
 	color: white; 
 }
+.font-280{
+	font-size: 280%;
+}
+/*section color palette*/
+.black{
+	color: black;
+	font-size: 280%;
+	margin-top: 5%;
+}
+.linea{
+	width: 20%;
+	border: 1px solid black;
+	margin-bottom: 5%;
+}
 .colors{
-	border: black solid 2px;
 	margin: 0% 0%;
 	width: 120%;
 	height: 150px;
 	margin-bottom: 5%;
 }
+.num-color{
+	color: black;
+}
+.color1{
+	background-color: #69d2e7;
+}
+.color2{
+	background-color: #a7dbdb;
+}
+.color3{
+	background-color: #e0e4cc;
+}
+.color4{
+	background-color: #f38830;
+}
+.color5{
+	background-color: #fa6900;
+}
+.color6{
+	background-color: #e94c6f;
+}
+.color7{
+	background-color: #542733;
+}
+.color8{
+	background-color: #5a6a62;
+}
+.color9{
+	background-color: #c6d5cd;
+}
+.color10{
+	background-color: #fdf200;
+}
+.color11{
+	background-color: #db3340;
+}
+.color12{
+	background-color: #e8b71a;
+}
+.color13{
+	background-color: #f7eac8;
+}
+.color14{
+	background-color: #1fda9a;
+}
+.color15{
+	background-color: #28abe3;
+}
+.color16{
+	background-color: #588c73;
+}
+.color17{
+	background-color: #f2e394;
+}
+.color18{
+	background-color: #f2ae72;
+}
+.color19{
+	background-color: #d96459;
+}
+.color20{
+	background-color: #5c4646;
+}
+.color21{
+	background-color: #d0c91f;
+}
+.color22{
+	background-color: #85c4b9;
+}
+.color23{
+	background-color: #008bba;
+}
+.color24{
+	background-color: #df514c;
+}
+.color25{
+	background-color: #dc403b;
+}
 .lateral{
 	width: 70%;
-	border: solid black 2px;
 	height: 150px;
 }
 .mrg-left-42{
@@ -24,6 +131,7 @@
 .mrg-right-40{
 	margin-right: 40%;
 }
+/*section about us*/
 /*section contact*/
 .block{
 	display: block;
