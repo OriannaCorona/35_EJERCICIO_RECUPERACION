@@ -24,3 +24,10 @@
 .mrg-right-40{
 	margin-right: 40%;
 }
+/*section contact*/
+.block{
+	display: block;
+}
+.bg-trigo{
+	background-image: url("../img/img-divider-img.jpg");
+}
