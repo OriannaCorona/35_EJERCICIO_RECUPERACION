@@ -132,6 +132,93 @@ li a, div a{
 	margin-right: 40%;
 }
 /*section about us*/
+.bg-azul{
+	background-color: #0b3861;
+}
+.mrg-top{
+	margin-top: 10%;
+}
+.linea2{
+	width: 20%;
+	border: 1px solid white;
+	margin-bottom: 5%;
+}
+/*.linea-gris{
+	background-color: lightgray;
+	height: 2%;
+	width: 80%;
+	margin-top: 15%;
+}*/
+.linea-naranja{
+	border: 10px solid orange;
+	width: 90%;
+	background-color: lightgray;
+}
+/*section what we do*/
+.text-wwd{
+	margin-top: -4%;
+}
+.bg-img{
+	background-image: url("../img/icon-bg.png");
+}
+.hire-btn{
+	background-color: black;
+	padding: 1% 2%;
+	border: none;
+	font-size: 150%;
+	margin: 8% 0%;
+}
+/*section team*/
+.team{
+	margin-bottom: 8%;
+}
+.ceo{
+	color: black;
+}
+.punteada{
+	border: dashed white 0.5px;
+	width: 80%;
+}
+.icon{
+	margin: 10% 3% 50% 3%;
+	padding: 2%;
+}
+/*section best price*/
+.borde-verde{
+	border: solid 1px #04b45f;
+	margin-bottom: 100%;
+}
+.mrg-5{
+	margin: 0% 5%;
+}
+.bg-naranja{
+	background-color: orange;
+}
+.bg-white{
+	background-color: white;
+}
+.sign-btn{
+	background-color: black;
+	padding: 1% 5%;
+	border: none;
+	font-size: 150%;
+	margin: 20% 0%;
+}
+.borde-naranja{
+	border: solid 1px orange;
+	margin-bottom: 50%;
+	margin-top: -25%;
+}
+/*section cliets*/
+.text-orange{
+	color: orange;
+}
+.mrg-top2{
+	margin-top: 2%;
+}
+.mrg-bottom10{
+	margin-bottom: 10%;
+}
 /*section contact*/
 .block{
 	display: block;
